@@ -1,0 +1,62 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="71669" filedate="2017-01-01 13:48:44" width="480px" height="679px">
+</image>
+<image path="images/initial-a.png" filesize="6765" filedate="2017-01-05 19:59:06" width="172px" height="164px">
+</image>
+<image path="images/initial-alt-t.png" filesize="1326" filedate="2017-01-01 13:36:17" width="81px" height="77px">
+</image>
+<image path="images/initial-alt-w.png" filesize="1623" filedate="2017-01-01 13:38:41" width="123px" height="78px">
+</image>
+<image path="images/initial-c.png" filesize="4607" filedate="2017-01-05 20:01:17" width="125px" height="165px">
+</image>
+<image path="images/initial-i.png" filesize="4366" filedate="2017-01-05 20:05:57" width="101px" height="166px">
+</image>
+<image path="images/initial-t.png" filesize="5169" filedate="2017-01-05 20:07:46" width="146px" height="161px">
+</image>
+<image path="images/initial-u.png" filesize="6453" filedate="2017-01-01 13:43:25" width="159px" height="162px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="12633" filedate="2017-01-06 20:29:36" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="51352" filedate="2017-01-06 20:28:51" width="480px" height="720px">
+</image>
+<image path="images/p021.jpg" filesize="82001" filedate="2017-01-06 20:11:18" width="528px" height="343px">
+</image>
+<image path="images/p049.jpg" filesize="22684" filedate="2017-01-05 20:15:34" width="265px" height="314px">
+</image>
+<image path="images/p066.png" filesize="15601" filedate="2017-01-05 20:03:53" width="520px" height="309px">
+</image>
+<image path="images/p069.jpg" filesize="72901" filedate="2017-01-05 20:35:31" width="720px" height="434px">
+</image>
+<image path="images/p071.jpg" filesize="81946" filedate="2017-01-05 21:04:53" width="565px" height="345px">
+</image>
+<image path="images/p075.jpg" filesize="47051" filedate="2017-01-05 21:11:31" width="293px" height="434px">
+</image>
+<image path="images/p180.jpg" filesize="94360" filedate="2017-01-05 21:15:33" width="402px" height="653px">
+</image>
+<image path="images/p194.jpg" filesize="82385" filedate="2017-01-06 20:01:13" width="547px" height="346px">
+</image>
+<image path="images/p268.jpg" filesize="49667" filedate="2017-01-06 20:07:19" width="463px" height="594px">
+</image>
+<image path="images/p270.jpg" filesize="15758" filedate="2017-01-06 20:09:44" width="469px" height="230px">
+</image>
+<image path="images/p274.jpg" filesize="79811" filedate="2017-01-06 19:58:57" width="398px" height="574px">
+</image>
+<image path="images/p294.jpg" filesize="73200" filedate="2017-01-06 19:57:14" width="501px" height="434px">
+</image>
+<image path="images/p295.jpg" filesize="106409" filedate="2017-01-06 20:05:15" width="720px" height="382px">
+</image>
+<image path="images/p316.jpg" filesize="112093" filedate="2017-01-06 19:55:00" width="581px" height="689px">
+</image>
+<image path="images/p319.jpg" filesize="33705" filedate="2017-01-06 19:51:08" width="288px" height="313px">
+</image>
+<image path="images/signature.png" filesize="4153" filedate="2017-01-01 13:28:27" width="468px" height="134px">
+</image>
+<image path="images/titlepage.png" filesize="11807" filedate="2017-01-01 13:34:05" width="399px" height="720px">
+</image>
+</images>
